@@ -1,0 +1,11 @@
+1.5 Menjawab Pertanyaan
+
+1. Jika merubah kode program sesuai keinginan tanpa menggunakan aturan yang sesuai 
+   dengan bahasa HTML5 maka akan terjadi perubahan pada tampilan program dan program
+   akan tetap berjalan (tidak terjadi error)
+2. Tidak ada perubahan
+3. thead : bagian kepala sebuah tabel
+   tbody : bagian pokok isi sebuah tabel
+   th    : heading ke samping
+   td    : isi tabel
+   tr    : baris tabel
